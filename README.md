@@ -13,8 +13,7 @@ GLOBETREK is a modern, responsive landing page built for a travel agency website
 - **CSS3** – Custom styling and responsive layout  
 - **JavaScript** – Interactivity & animations  
 
-## 📸 Preview  
-![Landing Page Screenshot](images/landing-preview.png)  
+
 
 ## 🔗 Live Demo  
 👉 [View GLOBETREK Landing Page](https://babatunds.github.io/GLOBETREK/)  
