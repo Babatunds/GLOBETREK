@@ -16,7 +16,7 @@ GLOBETREK is a modern, responsive landing page built for a travel agency website
 
 
 ## 🔗 Live Demo  
-👉 [View GLOBETREK Landing Page](https://babatunds.github.io/GLOBETREK/)  
+👉 https://babatunds.github.io/GLOBETREK/ 
 
 ## 📂 How to Use  
 1. Clone the repository  
